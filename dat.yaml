@@ -1,6 +1,6 @@
-train: clothes_img/train/images
-val: clothes_img/valid/images
-test: ../test/images
+train: ./train/images
+val: ./valid/images
+test: ./test/images
 
 nc: 13
 names: ['Long sleeve dress', 'Long sleeve outwear', 'Long sleeve top', 'Short sleeve dress', 'Short sleeve outwear', 'Short sleeve top', 'Shorts', 'Skirt', 'Sling dress', 'Sling', 'Trousers', 'Vest dress', 'Vest']
